@@ -3,6 +3,7 @@ Name_en_US = "Always be installed"
 Name_es_ES = "Siempre se debe instalar"
 
 [EP01]
+Name_en_US = The Sims™ 4 Get to Work
 Name_es_ES = Los Sims™ 4 ¡A Trabajar!
 
 [EP02]
